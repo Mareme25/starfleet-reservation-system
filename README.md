@@ -23,7 +23,7 @@ Installation et Exécution
 
 Cloner le dépôt :
 
-git clone <URL-du-repository>
+git clone <https://github.com/Mareme25/starfleet-reservation-system.git>
 
 Compiler le projet :
 
@@ -39,6 +39,7 @@ Aucune dépendance externe requise. Le projet utilise uniquement les bibliothèq
 
 
 Auteur
+
 Nom : Mareme NGONDI
 
 Email : ***********
@@ -48,9 +49,11 @@ Organisation : Starfleet Development Team
 
 Rapport de Conception
 
+
 1. Introduction
 
 Le projet Système de Réservation Starfleet est une application Java permettant d'organiser des missions spatiales et d'en gérer les réservations. Il repose sur une architecture orientée objet et suit les bonnes pratiques de programmation.
+
 
 2. Architecture du Projet
 
@@ -65,6 +68,7 @@ fr.starfleet.modele.mission : Gestion des missions spatiales.
 fr.starfleet.modele.reservation : Gestion des réservations.
 
 fr.starfleet.interfaceconsole : Interface utilisateur via la console.
+
 
 3. Choix Techniques
 
@@ -84,6 +88,7 @@ Persistance des Données :
 
 Utilisation de la sérialisation (ObjectOutputStream et ObjectInputStream) pour sauvegarder et charger les données.
 
+
 4. Améliorations Possibles
 
 Développement d'une interface graphique (Swing, JavaFX).
@@ -92,6 +97,7 @@ Ajout d'une base de données pour une gestion persistante avancée.
 
 Intégration d'une API REST pour interagir avec d'autres systèmes.
 
+
 5. Conclusion
 
 Ce projet offre une gestion efficace des missions Starfleet et applique les concepts fondamentaux de la programmation orientée objet, des structures de données et de la gestion des exceptions.
@@ -99,5 +105,6 @@ Ce projet offre une gestion efficace des missions Starfleet et applique les conc
 Fait par : Mareme NGONDI
 
 Date : 31 Mars 2025
+
 
 
