@@ -40,6 +40,7 @@ Aucune dépendance externe requise. Le projet utilise uniquement les bibliothèq
 
 Auteur
 Nom : Mareme NGONDI
+
 Email : ***********
 
 
@@ -96,6 +97,7 @@ Intégration d'une API REST pour interagir avec d'autres systèmes.
 Ce projet offre une gestion efficace des missions Starfleet et applique les concepts fondamentaux de la programmation orientée objet, des structures de données et de la gestion des exceptions.
 
 Fait par : Mareme NGONDI
+
 Date : 31 Mars 2025
 
 
